@@ -1,3 +1,3 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 str = "Holberton School"
-# YOUR CODE HERE
+# YOUR CODE GOES HERE. PLEASE REMOVE THIS LINE
