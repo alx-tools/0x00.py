@@ -1,3 +1,4 @@
 #!/usr/bin/python3
 str = "Holberton School"
-# YOUR CODE GOES HERE. PLEASE REMOVE THIS LINE
+print("{}{}{}".formart(str, str, str))
+print("{}".format(str[:9]))
